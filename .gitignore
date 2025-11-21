@@ -1,0 +1,17 @@
+# Binaries Go
+bin
+.exe
+
+# Qt build cache
+.qmlc
+.moc
+.o
+.a
+
+# therecipeqt build folders
+deploy
+build
+vendor
+
+# Go build cache
+pkg
