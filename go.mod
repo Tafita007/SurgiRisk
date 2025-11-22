@@ -1,4 +1,4 @@
-module SurgiRisk
+module surgirisk
 
 go 1.25.4
 
